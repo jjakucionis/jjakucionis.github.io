@@ -18,8 +18,12 @@ button {
     height: 40px;
     margin-left: 10px;
     border-radius: 4px;
-    border: 1px solid plum;
     cursor: pointer;
-    color: purple;
+    color: white;
     font-weight: 600;
+    background-color: rgb(65 165 239);
+}
+
+button:hover {
+    background-color: rgb(113 167 163);
 }
